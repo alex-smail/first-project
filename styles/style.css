@@ -101,25 +101,23 @@
   margin-bottom: 100px;
   display: flex;
   justify-content: space-between;
-  width: 80%;
-
 }
 
 .two-columns {
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  flex-wrap: wrap;
-  width: 175px;
+  width: 80%;
+  margin: auto;
 }
 
 .two-columns__brief {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  display: flex;
   color: #2f80ed;
-  margin-top: 0;
+  margin: 0;
+  width: 175px;
 }
 
 .two-columns__main-text {
@@ -131,6 +129,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin: 0;
 }
 
 .top-indentation {
@@ -319,7 +318,7 @@
   width: 100%;
   background-color: black;
   flex-direction: row;
-  min-width: 350px;
+  min-height: 350px;
 }
 
 .footer__columns {
@@ -336,8 +335,9 @@
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
 }
-
 .logo_place_footer {
   width: 228px;
   height: 32px;
@@ -356,7 +356,7 @@
 /*two block*/
 .footer__column_content_info {
   flex-direction: column;
-  display: flex;
+  display: flex;ы
 }
 
 .footer__column-heading {
@@ -364,7 +364,7 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  margin-top: 0;
+  margin: 0;
 }
 
 .footer__column-links {
