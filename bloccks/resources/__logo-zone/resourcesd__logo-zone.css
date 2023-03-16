@@ -1,6 +1,10 @@
 .resourcesd__logo-zone {
   width: 1100px;
   margin: 80px auto 217px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: space-between;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }

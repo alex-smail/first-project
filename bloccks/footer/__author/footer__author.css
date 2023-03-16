@@ -3,6 +3,8 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   position: absolute;
   bottom: 0;

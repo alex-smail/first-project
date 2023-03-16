@@ -3,6 +3,8 @@
   font-size: 30px;
   font-weight: normal;
   color: #2f80ed;
+  -webkit-transition: .5s;
+  -o-transition: .5s;
   transition: .5s;
   text-decoration: none;
 }

@@ -3,8 +3,12 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   width: 730px;
   margin-left: 64px;
 }

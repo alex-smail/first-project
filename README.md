@@ -10,5 +10,5 @@
 4. Principles of training.
 ------
 ### Solution plans for the future
-1. Cross-browser compatibility.
+1. Cross-browser compatibility.  ✅
 2. The triangle animation should extend vertically beyond the parent and go to the lower block.

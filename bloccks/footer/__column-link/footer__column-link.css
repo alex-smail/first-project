@@ -4,6 +4,8 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration: none;
+  -webkit-transition: .5s;
+  -o-transition: .5s;
   transition: .5s;
 }
 

@@ -2,9 +2,13 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   margin: 100px auto 70px;
   width: 648px;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   text-align: center;
 }
