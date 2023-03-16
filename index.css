@@ -1,4 +1,5 @@
 @import url(./bloccks/normalize.css);
+@import url(./bloccks/rotation/rotation.css);
 
 /*БЛОК  HEADER*/
 @import url(./bloccks/page/page.css);
@@ -20,6 +21,14 @@
 @import url(./bloccks/two-columns/__main-text/two-columns__main-text.css);
 @import url(./bloccks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(./bloccks/two-columns/__span-accent/two-columns__span-accent.css);
+
+/*БЛОК  techniques*/
+@import url(./bloccks/techniques/techniques.css);
+@import url(./bloccks/cards/cards.css);
+@import url(./bloccks/cards/__item/cards__item.css);
+@import url(./bloccks/cards/__image/cards__image.css);
+@import url(./bloccks/cards/__title/cards__title.css);
+@import url(./bloccks/cards/__description/cards__description.css);
 
 /*БЛОК  digits*/
 @import url(./bloccks/digits/digits.css);
@@ -58,5 +67,30 @@
 @import url(./bloccks/footer/__social-icon/footer__social-icon.css);
 @import url(./bloccks/footer/__columns/_content_social/footer__column_content_social.css);
 
+/*БЛОК  footer*/
+@import url(./bloccks/video/video.css);
+@import url(./bloccks/video/__iframes/video__iframes.css);
+@import url(./bloccks/video/__iframe/video__iframe.css);
+
+/*БЛОК  oakley*/
+@import url(./bloccks/oakley/oakley.css);
+
+/*БЛОК  khan*/
+@import url(./bloccks/khan/khan.css);
+@import url(./bloccks/khan/__container/khan__container.css);
+@import url(./bloccks/khan/__author/khan__author.css);
+@import url(./bloccks/khan/__title/khan__title.css);
+@import url(./bloccks/khan/__quote/khan__quote.css);
+@import url(./bloccks/khan/__quote-author/khan__quote-author.css);
+@import url(./bloccks/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(./bloccks/khan/__book-container/khan__book-container.css);
+@import url(./bloccks/khan/__book-pic/khan__book-pic.css);
+@import url(./bloccks/khan/__buy-link/khan__buy-link.css);
+
+/*БЛОК  resources*/
+@import url(./bloccks/resources/resources.css);
+@import url(./bloccks/resources/__logo-zone/resourcesd__logo-zone.css);
+@import url(./bloccks/resources/__link/resourcesd__link.css);
+@import url(./bloccks/resources/__logo/resourcesd__logo.css);
 
 @import url(./bloccks/red.css);
